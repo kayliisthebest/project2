@@ -1,0 +1,28 @@
+body {
+	background-color: #E0D8C3;
+	.zoom-out {cursor: zoom-out;}
+}
+h1 {
+  color: #0066CC;
+  text-align: center;
+  font-size: 40;
+   font-family: "Arial Italic", Times, serif;
+}
+h2 {
+  color: #87CEFA;
+   font-family: "Arial Italic", Times, serif;
+   text-align: center;
+}
+ul {
+  color: #87CEFA;
+   font-family: "Arial Italic", Times, serif;
+   text-align: center;
+}
+.list1{
+	background-color: white
+}
+.centertbl { 
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+}
